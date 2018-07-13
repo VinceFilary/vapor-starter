@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">
+    <img src="https://user-images.githubusercontent.com/20175273/42680893-45f130c4-8654-11e8-9d73-cf75869b88ad.png" width="320" alt="API Template">
     <br>
     <br>
     <a href="http://docs.vapor.codes/3.0/">
