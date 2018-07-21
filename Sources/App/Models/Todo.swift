@@ -1,8 +1,10 @@
-import FluentPostgreSQL
+//import FluentPostgreSQL
+import FluentSQLite
 import Vapor
 
 
-final class Todo: PostgreSQLModel {
+//final class Todo: PostgreSQLModel {
+final class Todo: SQLiteModel {
 
     var id: Int?
 
