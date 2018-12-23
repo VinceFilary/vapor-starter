@@ -7,5 +7,5 @@ public func routes(_ router: Router) throws {
         return "Hello, world!"
     }
 
-    try router.register(collection: TodosController())
+//    try router.register(collection: TodosController())
 }
